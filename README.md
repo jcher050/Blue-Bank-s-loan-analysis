@@ -8,3 +8,4 @@ Using Python and Tableau, they’d like to see a report of borrowers who may hav
 Date File: (loan_data_json.json) – 761 KB file https://finch-groundhog-9245.squarespace.com/s/loan_data_json.json 
 
 
+link to clean excel sheet: https://1drv.ms/x/s!AqXe0oubLSz38yEzTt8dIW5ZA9a0?e=fDW6Vf
